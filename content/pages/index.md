@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/EleojoProfilePic.png
+  url: /images/Eleojo.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
