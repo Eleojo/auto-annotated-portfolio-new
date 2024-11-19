@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/EleojoProfilePic.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,12 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a software engineer, machine learning enthusiast, problem-solver, and lifelong learner.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info—I’m sharing it with you to showcase the skills and expertise I’ve honed over the years in building scalable applications, designing 
+      intelligent systems, and solving real-world challenges with code. Once you're intrigued, feel free to scroll down to explore my journey, projects, and 
+      credentials in greater detail..
     styles:
       self:
         height: auto
