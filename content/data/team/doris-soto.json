@@ -4,7 +4,7 @@
     "lastName": "Adegbe",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
+        "url": "/images/EleojoProfilePic.png
         "altText": "Eleojo Adegbe photo"
     }
 }
